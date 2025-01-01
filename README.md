@@ -1,4 +1,7 @@
-## Hi there 👋
+# GitHub Stats:
+
+
+[![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lak-git)](https://github.com/lak-git/github-readme-stats)
 
 <!--
 **lak-git/lak-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
