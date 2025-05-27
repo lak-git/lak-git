@@ -1,7 +1,13 @@
-# GitHub Stats:
+# Hi, I'm Lakindu
+I'm a passionate and versatile Computer Science with a keen interest in software engineering, cyber security, and artificial intelligence. I'm also a Linux knob.
 
 
+## GitHub Stats:
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lak-git)](https://github.com/lak-git/github-readme-stats)
+
+## Connect with me
+<a href="https://www.linkedin.com/in/lakindu-h-perera/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
+
 
 <!--
 **lak-git/lak-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
