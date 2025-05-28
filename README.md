@@ -1,5 +1,5 @@
 # Hi, I'm Lakindu
-I'm a passionate and versatile Computer Science with a keen interest in software engineering, cyber security, and artificial intelligence. I'm also a Linux knob.
+I'm a passionate and versatile Computer Science student with a keen interest in software engineering, cyber security, and artificial intelligence. I'm also a Linux knob.
 
 
 ## GitHub Stats:
