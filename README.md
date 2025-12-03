@@ -17,6 +17,7 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
   - [Connect-4 AI](https://github.com/lak-git/Connect-4-AI)
 - ### **HTML** / **CSS** / **JS**
   - [Hospital Website with Pharmacy Ordering & Account System](https://github.com/lak-git/HospitalWebsite-project)
+- ### [**Capture The Flag (CTF) Writeups**](https://github.com/lak-git/CTF-Writeups)
 
 ## GitHub Stats:
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lak-git)](https://github.com/lak-git/github-readme-stats)
