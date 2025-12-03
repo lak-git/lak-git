@@ -2,18 +2,20 @@
 I'm a passionate and versatile Computer Science student with a keen interest in cybersecurity and software engineering. I'm a CTF player and I make writeups for them. With a hands-on approach to problem-solving and a collaborative mindset, I am eager to continue my learning journey and contribute to meaningful projects in cybersecurity and software engineering.
 
 ## My Projects:
-- ### Python
+- ### **Python**
   - [Typing Speed Test](https://github.com/lak-git/TypingSpeedTest-CLI)
   - [VLSM Calculator](https://github.com/lak-git/VLSM-Calculator)
-- ### PHP/Laravel
+- ### **PHP** / **Laravel**
   - [Zoltare : Full-Stack E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper) 
-- ### Javascript
+- ### **Javascript**
   - [Tic-Tac-Toe AI](https://github.com/lak-git/TicTacToe-AI)
   - [Sudoku Solver](https://github.com/lak-git/SudokuSolver)
-- ### C# (.NET Applications)
+- ### **C**
+  - [Morse Code Translator](https://github.com/lak-git/Morse-Code-Translator) 
+- ### **C#** (.NET Applications)
   - [Library Management System](https://github.com/lak-git/Library-Management-System)
   - [Connect-4 AI](https://github.com/lak-git/Connect-4-AI)
-- ### HTML/CSS/JS
+- ### **HTML** / **CSS** / **JS**
   - [Hospital Website with Pharmacy Ordering & Account System](https://github.com/lak-git/HospitalWebsite-project)
 
 ## GitHub Stats:
