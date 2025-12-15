@@ -1,12 +1,15 @@
 # Hi, I'm Lakindu
 I'm a passionate and versatile Computer Science student with a keen interest in cybersecurity and software engineering. I'm a CTF player and I make writeups for them. With a hands-on approach to problem-solving and a collaborative mindset, I am eager to continue my learning journey and contribute to meaningful projects in cybersecurity and software engineering.
 
+---
+
 ## My Projects:
+- ### **Full-Stack Projects**
+  - [Nodus : Disaster Response System](https://github.com/lak-git/Nodus) 
+  - [Zoltare : Wallpaper E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper) 
 - ### **Python**
   - [Typing Speed Test](https://github.com/lak-git/TypingSpeedTest-CLI)
   - [VLSM Calculator](https://github.com/lak-git/VLSM-Calculator)
-- ### **PHP** / **Laravel**
-  - [Zoltare : Full-Stack E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper) 
 - ### **Javascript**
   - [Tic-Tac-Toe AI](https://github.com/lak-git/TicTacToe-AI)
   - [Sudoku Solver](https://github.com/lak-git/SudokuSolver)
@@ -18,6 +21,8 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
 - ### **HTML** / **CSS** / **JS**
   - [Hospital Website with Pharmacy Ordering & Account System](https://github.com/lak-git/HospitalWebsite-project)
 - ### [**Capture The Flag (CTF) Writeups**](https://github.com/lak-git/CTF-Writeups)
+
+---
 
 ## GitHub Stats:
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lak-git)](https://github.com/lak-git/github-readme-stats)
