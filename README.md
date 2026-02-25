@@ -6,7 +6,8 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
 ## My Projects:
 - ### **Full-Stack Projects**
   - [Nodus : Disaster Response System](https://github.com/lak-git/Nodus) 
-  - [Zoltare : Wallpaper E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper) 
+  - [Zoltare : Wallpaper E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper)
+  - [MediFollow : Clinic Follow-Up Management System](https://github.com/stefanshabbir/MediFollow)
 - ### **Python**
   - [Typing Speed Test](https://github.com/lak-git/TypingSpeedTest-CLI)
   - [VLSM Calculator](https://github.com/lak-git/VLSM-Calculator)
