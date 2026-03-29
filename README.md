@@ -9,6 +9,7 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
   - [Zoltare : Wallpaper E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper)
   - [MediFollow : Clinic Follow-Up Management System](https://github.com/stefanshabbir/MediFollow)
 - ### **Python**
+  - [Simple Pins API](https://github.com/lak-git/SimplePinsAPI/)
   - [Typing Speed Test](https://github.com/lak-git/TypingSpeedTest-CLI)
   - [VLSM Calculator](https://github.com/lak-git/VLSM-Calculator)
 - ### **Javascript**
