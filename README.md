@@ -1,5 +1,5 @@
 # Hi, I'm Lakindu
-I'm a passionate and versatile Computer Science student with a keen interest in cybersecurity and software engineering. I'm a CTF player and I make writeups for them. With a hands-on approach to problem-solving and a collaborative mindset, I am eager to continue my learning journey and contribute to meaningful projects in cybersecurity and software engineering.
+I'm a passionate and versatile Computer Science student with a keen interest in Cybersecurity and Software Engineering. Participating in CTFs, Hackathons and building Fullstack are my speciality. With my passion for problem solving, I am eager to continue my learning journey and contribute to meaningful projects in Cybersecurity and Software Engineering.
 
 ---
 
@@ -29,8 +29,6 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
 ## GitHub Stats:
 [![Lakindu's GitHub stats](https://github-readme-stats.vercel.app/api?username=lak-git)](https://github.com/lak-git/github-readme-stats)
 
-## Connect with me
-<a href="https://www.linkedin.com/in/lakindu-h-perera/" target="_blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="LinkedIn" height="50" width="50" /></a>
 
 
 <!--
