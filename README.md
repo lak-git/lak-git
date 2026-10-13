@@ -5,22 +5,18 @@ I'm a passionate and versatile Computer Science student with a keen interest in 
 
 ## My Projects:
 - ### **Full-Stack Projects**
+  - [Trace : Agentic Scrum Assistant](https://github.com/lak-git/Trace)
   - [Nodus : Disaster Response System](https://github.com/lak-git/Nodus) 
   - [Zoltare : Wallpaper E-Commerce Website](https://github.com/lak-git/Zoltare-Wallpaper)
   - [MediFollow : Clinic Follow-Up Management System](https://github.com/stefanshabbir/MediFollow)
+  - [Library Management System](https://github.com/lak-git/Library-Management-System)
 - ### **Python**
   - [Simple Pins API](https://github.com/lak-git/SimplePinsAPI/)
   - [Typing Speed Test](https://github.com/lak-git/TypingSpeedTest-CLI)
   - [VLSM Calculator](https://github.com/lak-git/VLSM-Calculator)
-- ### **Javascript**
+- ### **Miscellaneous Projects**
   - [Tic-Tac-Toe AI](https://github.com/lak-git/TicTacToe-AI)
-  - [Sudoku Solver](https://github.com/lak-git/SudokuSolver)
-- ### **C**
   - [Morse Code Translator](https://github.com/lak-git/Morse-Code-Translator) 
-- ### **C#** (.NET Applications)
-  - [Library Management System](https://github.com/lak-git/Library-Management-System)
-  - [Connect-4 AI](https://github.com/lak-git/Connect-4-AI)
-- ### **HTML** / **CSS** / **JS**
   - [Hospital Website with Pharmacy Ordering & Account System](https://github.com/lak-git/HospitalWebsite-project)
 - ### [**Capture The Flag (CTF) Writeups**](https://github.com/lak-git/CTF-Writeups)
 
